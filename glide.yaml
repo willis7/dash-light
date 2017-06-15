@@ -1,0 +1,7 @@
+package: github.com/willis7/dash-light
+import:
+- package: github.com/willis7/arp
+- package: github.com/savaki/go.hue
+- package: github.com/spf13/viper
+- package: github.com/fsnotify/fsnotify
+  version: ^1.4.2

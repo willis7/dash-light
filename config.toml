@@ -1,0 +1,10 @@
+[network]
+nic = "en0"
+mac = "34:D2:70:79:1F:5A"
+
+[bridge]
+username = "Njz0ilwTFAHFK1imEDrbW78kn8d7xl8rTnha5L0J"
+ipAddr = "192.168.1.6"
+
+[device.1]
+name = "Hue white lamp 1"
